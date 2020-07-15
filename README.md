@@ -1,1 +1,5 @@
 # COMPARING-CLASSIFIERS-ON-WEATHER-DATASET-USING-WEKA
+WEKA is open source software provides tools for data preprocessing, implementation of several Machine Learning algorithms, and visualization tools so that you can develop machine learning techniques and apply them to real-world data mining problems.
+ 
+#Project Relevance
+In this project we have used the supervised learning, and in that we have used classification. Classification is used when we have different classes to which a tuple in a dataset may belong to. We have used a weather dataset from kaggle and in that there is an attribute ‘Daily Summary’ which will be predicted by our model once it gets trained on the dataset. The used dataset has many classes around 214. So since this dataset also contains around 96K instances from 1 Jan 2006 to 1 Jan 2017 of hourly weather report, it gives us a very good chance to work with such large dataset. In this project we will apply 4 different classifiers on this dataset to understand how classifiers work and what type of classifiers work the best for this type of large dataset thus will help us to achieve maximum accuracy on weather reporting.
